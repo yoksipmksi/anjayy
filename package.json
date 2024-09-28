@@ -16,7 +16,6 @@
     "random": "^4.1.0",
     "simple-git": "^3.28.0"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fenrir2608/goGreen.git"
